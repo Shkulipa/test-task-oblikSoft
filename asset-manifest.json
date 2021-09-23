@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-task-oblikSoft/static/css/main.0c71368d.chunk.css",
-    "main.js": "/test-task-oblikSoft/static/js/main.0437f272.chunk.js",
-    "main.js.map": "/test-task-oblikSoft/static/js/main.0437f272.chunk.js.map",
+    "main.js": "/test-task-oblikSoft/static/js/main.2d54ee7c.chunk.js",
+    "main.js.map": "/test-task-oblikSoft/static/js/main.2d54ee7c.chunk.js.map",
     "runtime-main.js": "/test-task-oblikSoft/static/js/runtime-main.656c9e6b.js",
     "runtime-main.js.map": "/test-task-oblikSoft/static/js/runtime-main.656c9e6b.js.map",
     "static/js/2.4378d205.chunk.js": "/test-task-oblikSoft/static/js/2.4378d205.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.656c9e6b.js",
     "static/js/2.4378d205.chunk.js",
     "static/css/main.0c71368d.chunk.css",
-    "static/js/main.0437f272.chunk.js"
+    "static/js/main.2d54ee7c.chunk.js"
   ]
 }
