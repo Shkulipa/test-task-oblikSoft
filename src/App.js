@@ -1,25 +1,20 @@
-import logo from './logo.svg';
+import React from 'react';
+
+//styles
 import './App.css';
 
+//material-ui
+import Container from '@material-ui/core/Container';
+
+//components
+import HomeContainer from './pages/home/homeContainer';
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<Container maxWidth="lg">
+			<HomeContainer />
+		</Container>
+	);
 }
 
 export default App;
