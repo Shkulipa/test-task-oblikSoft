@@ -8,6 +8,7 @@ import * as PropTypes from 'prop-types';
 
 const Pagination = ({ allPosts, onOnePage, goToPage }) => {
 	const countPage = Math.ceil(Number(allPosts) / Number(onOnePage));
+
 	let i = 1;
 	const arrPages = [];
 	while (i < countPage + 1) {
@@ -22,7 +23,7 @@ const Pagination = ({ allPosts, onOnePage, goToPage }) => {
 					<div
 						className="page"
 						key={item}
-						onClick={item => goToPage(item)}
+						onClick={() => goToPage(item)}
 					>
 						{item}
 					</div>
