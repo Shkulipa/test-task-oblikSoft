@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/test-task-oblikSoft/static/css/main.0c71368d.chunk.css",
+    "main.js": "/test-task-oblikSoft/static/js/main.0437f272.chunk.js",
+    "main.js.map": "/test-task-oblikSoft/static/js/main.0437f272.chunk.js.map",
+    "runtime-main.js": "/test-task-oblikSoft/static/js/runtime-main.656c9e6b.js",
+    "runtime-main.js.map": "/test-task-oblikSoft/static/js/runtime-main.656c9e6b.js.map",
+    "static/js/2.4378d205.chunk.js": "/test-task-oblikSoft/static/js/2.4378d205.chunk.js",
+    "static/js/2.4378d205.chunk.js.map": "/test-task-oblikSoft/static/js/2.4378d205.chunk.js.map",
+    "static/js/3.def9e788.chunk.js": "/test-task-oblikSoft/static/js/3.def9e788.chunk.js",
+    "static/js/3.def9e788.chunk.js.map": "/test-task-oblikSoft/static/js/3.def9e788.chunk.js.map",
+    "static/js/4.400876d3.chunk.js": "/test-task-oblikSoft/static/js/4.400876d3.chunk.js",
+    "static/js/4.400876d3.chunk.js.map": "/test-task-oblikSoft/static/js/4.400876d3.chunk.js.map",
+    "static/js/5.a5eff1fa.chunk.js": "/test-task-oblikSoft/static/js/5.a5eff1fa.chunk.js",
+    "static/js/5.a5eff1fa.chunk.js.map": "/test-task-oblikSoft/static/js/5.a5eff1fa.chunk.js.map",
+    "static/js/6.27dfa70f.chunk.js": "/test-task-oblikSoft/static/js/6.27dfa70f.chunk.js",
+    "static/js/6.27dfa70f.chunk.js.map": "/test-task-oblikSoft/static/js/6.27dfa70f.chunk.js.map",
+    "index.html": "/test-task-oblikSoft/index.html",
+    "static/css/main.0c71368d.chunk.css.map": "/test-task-oblikSoft/static/css/main.0c71368d.chunk.css.map",
+    "static/js/2.4378d205.chunk.js.LICENSE.txt": "/test-task-oblikSoft/static/js/2.4378d205.chunk.js.LICENSE.txt",
+    "static/media/cancel.svg": "/test-task-oblikSoft/static/media/cancel.2a6d6a23.svg",
+    "static/media/female.svg": "/test-task-oblikSoft/static/media/female.69e48a92.svg",
+    "static/media/male.svg": "/test-task-oblikSoft/static/media/male.0aab6e54.svg",
+    "static/media/refresh.svg": "/test-task-oblikSoft/static/media/refresh.e19a8b43.svg",
+    "static/media/search.svg": "/test-task-oblikSoft/static/media/search.3f126081.svg",
+    "static/media/telegram.svg": "/test-task-oblikSoft/static/media/telegram.c86edbb4.svg",
+    "static/media/viber.svg": "/test-task-oblikSoft/static/media/viber.bc735e0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.656c9e6b.js",
+    "static/js/2.4378d205.chunk.js",
+    "static/css/main.0c71368d.chunk.css",
+    "static/js/main.0437f272.chunk.js"
+  ]
+}
