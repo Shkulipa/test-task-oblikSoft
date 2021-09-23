@@ -10,7 +10,6 @@ import cancel from './../../asset/img/icons/cancel.svg';
 //Types
 import * as PropTypes from 'prop-types';
 
-// eslint-disable-next-line react/prop-types
 const SearchInput = ({ inputVal, handelSearch, resetSearch }) => {
 	return (
 		<div className="inputBlock">
